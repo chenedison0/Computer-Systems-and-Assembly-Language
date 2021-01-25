@@ -1,0 +1,18 @@
+assignment:  Lab 0
+name:        Edison Chen
+cruzid:      edpchen
+
+----------------------------------------
+GRADE BREAKDOWN
+----------------------------------------
+
+2 / 2 created all Lab{0,1,2,3,4,5} directories
+2 / 2 created all Lab{0,1,2,3,4,5}/README.txt files
+2 / 2 Lab0/README.txt includes the correct statement
+2 / 2 Lab0/README.txt contains CruzID
+2 / 2 Lab0/README.txt date in the correct format
+--------------------
+TOTAL
+
+points earned:   10
+lab total:       10
