@@ -7,7 +7,8 @@
 # CSE 012, Computer Systems and Assembly Language
 # UC Santa Cruz, Winter 2021
 #
-# Description: This program prints ‘Hello world.’ to the screen.
+# Description: The program will print variable-sized ASCII diamonds 
+# and a sequence of embedded numbers based on user input.
 #
 # Notes: This program is intended to be run from the MARS IDE.
 ##########################################################################
