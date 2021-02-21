@@ -69,16 +69,13 @@
 #$t3: front pattern loop counter
 #$t4: back pattern loop counter
 .data
-prompt: .asciiz "Enter the height of the pattern (must be greater than 0):"
+prompt: .asciiz "Enter the height of the pattern (must be greater than 0):\t"
 error: .asciiz "Invalid Entry!"
 
 .text
 userInput:
 	li $v0 4                  #prep for print string syscall
 	la $a0 prompt             #print string stored in prompt
-	syscall
-	li $v0 11                 #prep for print ASCII syscall
-	li $a0 9                  #set $a0 to 9 (Horizontal tab)
 	syscall
 	li $v0 5                  #prep for user input syscall
 	syscall
