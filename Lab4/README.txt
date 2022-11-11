@@ -1,7 +1,6 @@
 Edison Chen
 edpchen
 Winter 2021
-Lab 4:  Syntax Checker
 
 -----------
 DESCRIPTION
