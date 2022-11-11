@@ -1,7 +1,6 @@
 Edison Chen
 edpchen
 Winter 2021
-Lab 1: Intro to Logic Simulation
 
 -----------
 DESCRIPTION
