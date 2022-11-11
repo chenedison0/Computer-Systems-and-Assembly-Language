@@ -1,7 +1,6 @@
 Edison Chen
 edpchen
 Winter 2021
-Lab 2: Simple Data Path
 
 -----------
 DESCRIPTION
